@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/129838827/236611773-4aac4dcd-c3b1-4af7-b713-012e6a78b4f5.png">
 </p>
 
-## outpout matrix의 예시 이미지
+## output matrix의 예시 이미지
 <p align="center">
-<img src="https://user-images.githubusercontent.com/129838827/236611773-4aac4dcd-c3b1-4af7-b713-012e6a78b4f5.png">
+<img src="https://user-images.githubusercontent.com/129838827/236611880-22974c92-8e6c-4f39-8d90-d0b1c649be33.png">
 </p>
